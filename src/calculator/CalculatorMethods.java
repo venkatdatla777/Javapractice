@@ -1,3 +1,5 @@
+package calculator;
+
 class CalculatorMethods {
 
         public int Add(int num1, int num2)     //created add,sub,mul,div methods here

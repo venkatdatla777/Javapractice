@@ -1,3 +1,7 @@
+package calculator;
+
+import calculator.CalculatorMethods;
+
 class MainCalculatorProgram {
     public static void main(String[] args) {
         int result;
