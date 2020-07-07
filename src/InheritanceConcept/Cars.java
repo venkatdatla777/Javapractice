@@ -1,7 +1,8 @@
 package InheritanceConcept;
 
 class Cars {
-    public void Creta(){
+    public void Creta()
+    {
         System.out.println("Creta having three models: E, EX, SX");
         System.out.println("All models Coming with Both Petrol and Diesel");
         System.out.println("Engine side everything same for all models");
@@ -9,11 +10,13 @@ class Cars {
 
     }
 
-    public void I20(String e, String ex, String sx){
-        System.out.println("i20 having three models: E, EX, SX");
+    public void I20()
+    {
+        System.out.println("I20 having three models: Magna , SportZ, Active");
     }
 
-    public void WagonR(String e){
-        System.out.println("wagnoR having three models: E");
+    public void WagonR()
+    {
+        System.out.println("wagnoR having Two models: High End and Low End");
     }
 }
