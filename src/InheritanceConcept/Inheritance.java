@@ -2,11 +2,11 @@ package InheritanceConcept;
 
 public class Inheritance {
     public  static void main (String[] args){
-        Cars carsobj = new Cars();
-        carsobj.CretaE();
+        CretaModels obj = new CretaModels();
+        obj.Creta();
+        obj.CretaE();
 
-//        CretaModels cretaobj = new CretaModels();
-//        cretaobj.CretaEx();
+
 
     }
 }
