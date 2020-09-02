@@ -12,7 +12,7 @@ public class MultipleConstructors {
     }
 }
 
-class time{
+class  time{
     private int hour;
     private int minute;
     private int second;

@@ -3,6 +3,7 @@ package InheritanceConcept;
 class Cars {
     public void Creta()
     {
+        int x;
         System.out.println("Creta having three models: E, EX, SX");
         System.out.println("All models Coming with Both Petrol and Diesel");
         System.out.println("Engine side everything same for all models");

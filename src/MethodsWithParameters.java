@@ -9,12 +9,12 @@ class MethodsWithParameters {
         obj.Data(username,password);
 
     }
-
-      static class ParameterPassing{
+}
+     class ParameterPassing{
         public void Data(String username, String password)
         {
             System.out.println("username is: "+username + " " + "password is: "+password);
         }
 
     }
-}
+

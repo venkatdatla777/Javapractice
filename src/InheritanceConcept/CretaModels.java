@@ -12,5 +12,6 @@ class CretaModels extends Cars{
     public void CretaSx()
     {
         System.out.println(" In Creta Sx model, Everything is coming");
+        
     }
 }
